@@ -1,3 +1,4 @@
+nano .gitignore
 # Logs
 logs
 *.log
