@@ -1,0 +1,8 @@
+{
+  "name": "B T W N",
+  "description": "An intimate sound journal designed to capture and explore the world through high-fidelity audio reflections.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
